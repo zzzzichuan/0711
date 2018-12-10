@@ -1,3 +1,3 @@
 Git is a version control system.
-Git is free software
-six six six
+Git是免费软件
+遇事不决可问春风
